@@ -1,6 +1,7 @@
 <p align="center">
   <img  src="https://i.imgur.com/hSdDCj2.png" width="400" height="400" />
 </p>
+// first method
 .my-selector p {
   margin-bottom: 0;
 }
