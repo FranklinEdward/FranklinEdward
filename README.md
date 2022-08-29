@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="https://i.imgur.com/hSdDCj2.png" width="500" height="500" />
+  <img  src="https://i.imgur.com/hSdDCj2.png" width="400" height="400" />
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Franklin Edwardö </h1>
