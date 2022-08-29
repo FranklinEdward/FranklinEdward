@@ -14,6 +14,7 @@
 - ⚡ Fun fact: ... I am a programmer and i have no life!!
 
 ## 🤷‍♂️**My Amazing Skills**
+<a href="https://imgur.com/m28hJRc"><img style="width: 40px" src="https://i.imgur.com/m28hJRc.png" title="source: imgur.com" /></a>
 
 ## **You can contact me on**:
 <p align="left" style="margin-left: 20px">
