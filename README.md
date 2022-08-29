@@ -19,4 +19,5 @@
   <a href="https://imgur.com/Dldf474"><img style="width: 40px" src="https://i.imgur.com/Dldf474.png" title="source: imgur.com" /></a>
 <a style="margin-left: 10px" href = "https://twitter.com/ay4codes"><img style="width: 40px" src="https://i.im.ge/2022/07/28/F9P1gr.png"/></a>
 </p>
-## 🤷‍♂️  **My Amazing Skills**:
+
+## 🤷‍♂️**My Amazing Skills**
