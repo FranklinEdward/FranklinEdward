@@ -13,6 +13,8 @@
 - 📫 How to reach me: ... Elmander.Franklin@gmail.com
 - ⚡ Fun fact: ... I am a programmer and i have no life!!
 
+## 🤷‍♂️**My Amazing Skills**
+
 ## **You can contact me on**:
 <p align="left" style="margin-left: 20px">
   <a href="https://imgur.com/90c54aR"><img style="width: 40px" src="https://i.imgur.com/90c54aR.png" title="source: imgur.com" /></a>
@@ -20,4 +22,4 @@
 <a style="margin-left: 10px" href = "https://twitter.com/ay4codes"><img style="width: 40px" src="https://i.im.ge/2022/07/28/F9P1gr.png"/></a>
 </p>
 
-## 🤷‍♂️**My Amazing Skills**
+
