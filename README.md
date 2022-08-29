@@ -1,4 +1,6 @@
-<center><a href="https://imgur.com/ZP4Ebyd"><img  width="auto" height="auto" src="https://i.imgur.com/ZP4Ebyd.png"  /></a></center>
+<div style="display: flex;width: 100%; justify-content: center; align-items: center;  ">
+  <a href="https://imgur.com/ZP4Ebyd"><img  width="auto" height="auto" src="https://i.imgur.com/ZP4Ebyd.png"  /></a>
+</div>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <a href="https://imgur.com/yIUWDkX"><img src="https://i.imgur.com/yIUWDkX.png" title="source: imgur.com" /></a>
 
