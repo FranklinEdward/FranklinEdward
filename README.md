@@ -1,5 +1,8 @@
 <a href="https://imgur.com/hSdDCj2"><img  src="https://i.imgur.com/hSdDCj2.png" title="source: imgur.com" /></a>
-<img  src="https://i.imgur.com/hSdDCj2.png" width="200" height="400" />
+<p align="center">
+  <img  src="https://i.imgur.com/hSdDCj2.png" width="200" height="400" />
+</p>
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <a href="https://imgur.com/yIUWDkX"><img src="https://i.imgur.com/yIUWDkX.png" title="source: imgur.com" /></a>
 
