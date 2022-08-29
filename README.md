@@ -1,4 +1,5 @@
 <a href="#"><<a href="https://imgur.com/s5Na4Uc"><img src="https://i.imgur.com/s5Na4Uc.png" title="source: imgur.com" /></a></a>
+<a href="#"><img width="100%" height="auto" src="[https://i.imgur.com/iXuL1HG.png](https://i.imgur.com/TpYmdYw.png)" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Franklin Edwardö </h1>
 <h3 align="center">I'm I am a highly skilled web developer and designer.</h3>
 
