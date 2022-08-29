@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/LdNgfEb.png" width="400" height="20px" />
+  <img src="https://i.imgur.com/LdNgfEb.png" width="400" height="200" />
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Franklin Edwardö </h1>
 <h3 align="center">I'm I am a highly skilled web developer and designer.</h3>
