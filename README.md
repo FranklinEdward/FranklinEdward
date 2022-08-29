@@ -4,7 +4,6 @@
 
 ## **Looking for me!**:
 <p align="left" style="margin-left: 20px">
-<a style="margin-left: 10px" href = "https://twitter.com/ay4codes"><img style="width: 40px" src="https://i.im.ge/2022/07/28/F9P1gr.png"/></a>title="source: imgur.com" /></a>"/></a>
 <a style="margin-left: 10px" href = "https://twitter.com/ay4codes"><img style="width: 40px" src="https://i.im.ge/2022/07/28/F9P1gr.png"/></a>
 </p>
 
