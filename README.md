@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://i.imgur.com/1Hwhoe0.png" width="400" height="400" />
 </p>
-// second method
 .my-selector p {
   --contentSpacing: 0;
   --padding-bottom: 0;
