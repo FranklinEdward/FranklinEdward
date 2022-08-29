@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://imgur.com/LdNgfEb"><img src="https://i.imgur.com/LdNgfEb.png" title="source: imgur.com" /></a>
+  <img src="https://i.imgur.com/LdNgfEb.png" width="400" height="400" />
   <img src="https://i.imgur.com/1Hwhoe0.png" width="400" height="400" />
 </p>
 .my-selector p {
