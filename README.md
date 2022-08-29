@@ -4,8 +4,7 @@
 
 ## **Looking for me!**:
 <p align="left" style="margin-left: 20px">
-<a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Freepik - Flaticon</a>
-<a href = "https://www.instagram.com/haryormeed_256/"><img style="width: 40px" src="https://i.im.ge/2022/07/28/F9Nj1P.png"/></a>
+<a href = "https://www.instagram.com/haryormeed_256/"><img style="width: 40px" src="[https://i.im.ge/2022/07/28/F9Nj1P.png](https://imgur.com/Dldf474)"/></a>
 <a style="margin-left: 10px" href = "https://twitter.com/ay4codes"><img style="width: 40px" src="https://i.im.ge/2022/07/28/F9P1gr.png"/></a>
 </p>
 
