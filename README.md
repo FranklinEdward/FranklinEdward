@@ -1,4 +1,4 @@
-<a href="https://imgur.com/hSdDCj2"><img  width="100%" height="70%" src="https://i.imgur.com/hSdDCj2.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/hSdDCj2"><img  width="100%" height="700px" src="https://i.imgur.com/hSdDCj2.png" title="source: imgur.com" /></a>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <a href="https://imgur.com/yIUWDkX"><img src="https://i.imgur.com/yIUWDkX.png" title="source: imgur.com" /></a>
 
