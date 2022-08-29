@@ -8,7 +8,7 @@
 - 📫 How to reach me: ... Elmander.Franklin@gmail.com
 - ⚡ Fun fact: ... I am a programmer and i have no life!!
 
-## **Looking for me!**:
+## **You can contact me on**:
 <p align="left" style="margin-left: 20px">
   <a href="https://imgur.com/90c54aR"><img style="width: 40px" src="https://i.imgur.com/90c54aR.png" title="source: imgur.com" /></a>
   <a href="https://imgur.com/Dldf474"><img style="width: 40px" src="https://i.imgur.com/Dldf474.png" title="source: imgur.com" /></a>
