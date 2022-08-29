@@ -4,7 +4,7 @@
 
 ## **Looking for me!**:
 <p align="left" style="margin-left: 20px">
-<a href = "https://www.instagram.com/haryormeed_256/"><img style="width: 40px" src="[https://i.im.ge/2022/07/28/F9Nj1P.png](https://imgur.com/Dldf474)"/></a>
+<a href = "https://www.instagram.com/haryormeed_256/"><img style="width: 40px" src="<a href="https://imgur.com/TpYmdYw"><img src="https://i.imgur.com/TpYmdYw.png" title="source: imgur.com" /></a>"/></a>
 <a style="margin-left: 10px" href = "https://twitter.com/ay4codes"><img style="width: 40px" src="https://i.im.ge/2022/07/28/F9P1gr.png"/></a>
 </p>
 
