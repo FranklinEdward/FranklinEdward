@@ -33,7 +33,7 @@
 ## ❤ Views and Followers
 <p align="left" style="margin-left: 50px">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ay4codes">
+    <img src="https://komarev.com/ghpvc/?username=FranklinEdward">
 </a>
-<a><img src="https://img.shields.io/github/followers/ay4codes?label=Followers&style=social" alt="GitHub Badge"></a>
+<a><img src="https://img.shields.io/github/followers/FranklinEdward?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
