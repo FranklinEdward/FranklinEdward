@@ -30,3 +30,10 @@
 <a href="https://www.python.org/" target="_blank"> <img src="https://i.im.ge/2022/07/28/F96mTS.png" style="width: 190px"/> </a> 
 
 
+## ❤ Views and Followers
+<p align="left" style="margin-left: 50px">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ay4codes">
+</a>
+<a><img src="https://img.shields.io/github/followers/ay4codes?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
