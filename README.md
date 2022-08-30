@@ -7,11 +7,6 @@
 <h3 align="center">I'm I am a highly skilled web developer and designer.</h3>
 
 
-## 🧑‍💻 **About Me**
-- 🔭 I’m currently working as ... a web developer
-- 🌱 I’m currently learning ... JavaScript & Python
-- 📫 How to reach me: ... Elmander.Franklin@gmail.com
-- ⚡ Fun fact: ... I am a programmer and i have no life!!
 
 ## 🤷‍♂️**My Amazing Skills**
 <a href="https://imgur.com/m28hJRc"><img style="width: 40px" src="https://i.imgur.com/m28hJRc.png" title="source: imgur.com" /></a>
@@ -20,6 +15,13 @@
 <a href="https://imgur.com/LI61eJP"><img style="width: 40px" src="https://i.imgur.com/LI61eJP.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/C0ULm1B"><img style="width: 40px" src="https://i.imgur.com/C0ULm1B.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/SQQIxri"><img style="width: 40px" src="https://i.imgur.com/SQQIxri.png" title="source: imgur.com" /></a>
+
+## 🧑‍💻 **About Me**
+- 🔭 I’m currently working as ... a web developer
+- 🌱 I’m currently learning ... JavaScript & Python
+- 📫 How to reach me: ... Elmander.Franklin@gmail.com
+- ⚡ Fun fact: ... I am a programmer and i have no life!!
+
 
 ## 📞 **contact me on**:
 <p align="left" style="margin-left: 20px">
