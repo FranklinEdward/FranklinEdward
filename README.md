@@ -8,7 +8,7 @@
 
 
 
-## 🤷‍♂️**My Amazing Skills**
+### 🤷‍♂️**My Amazing Skills**
 <a href="https://imgur.com/m28hJRc"><img style="width: 40px" src="https://i.imgur.com/m28hJRc.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/G63KlZn"><img style="width: 40px" src="https://i.imgur.com/G63KlZn.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/jHZ7skg"><img style="width: 40px" src="https://i.imgur.com/jHZ7skg.png" title="source: imgur.com" /></a>
@@ -16,7 +16,7 @@
 <a href="https://imgur.com/C0ULm1B"><img style="width: 40px" src="https://i.imgur.com/C0ULm1B.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/SQQIxri"><img style="width: 40px" src="https://i.imgur.com/SQQIxri.png" title="source: imgur.com" /></a>
 
-## 🧑‍💻 **About Me**
+### 🧑‍💻 **About Me**
 - 🧑‍💻 I’m currently working as ... a web developer
 - 👨‍🏫 I’m currently learning ... JavaScript & Python
 - 📨 How to reach me: ... Elmander.Franklin@gmail.com
@@ -32,7 +32,7 @@
 </p>
 
 
-## ❤ Views and Followers
+### ❤ Views and Followers
 <p align="left" style="margin-left: 50px">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=FranklinEdward">
