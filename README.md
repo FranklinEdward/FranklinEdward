@@ -22,7 +22,7 @@ https://imgur.com/G8gF6jQ
 - 📨 How to reach me: ... Elmander.Franklin@gmail.com
 - ⚡ Fun fact: ... I am a programmer and i have no life!!
 
-|  |
+|  
 | ------------- | ------------- |
 
 
