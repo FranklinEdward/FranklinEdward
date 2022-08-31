@@ -22,6 +22,9 @@ https://imgur.com/G8gF6jQ
 - 📨 How to reach me: ... Elmander.Franklin@gmail.com
 - ⚡ Fun fact: ... I am a programmer and i have no life!!
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 ## 📞 **contact me on**:
 <p align="left" style="margin-left: 20px">
