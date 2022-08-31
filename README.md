@@ -22,9 +22,10 @@ https://imgur.com/G8gF6jQ
 - 📨 How to reach me: ... Elmander.Franklin@gmail.com
 - ⚡ Fun fact: ... I am a programmer and i have no life!!
 
-|  
-| ------------- | ------------- |
+📊 &nbsp;**This week I spent my time on**
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
 
 ## 📞 **contact me on**:
 <p align="left" style="margin-left: 20px">
