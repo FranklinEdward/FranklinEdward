@@ -29,6 +29,10 @@
 <a style="margin-left: 10px" href = "https://twitter.com/ay4codes"><img style="width: 40px" src="https://i.im.ge/2022/07/28/F9P1gr.png"/></a>
 </p>
 
+| <a href="https://github.com/FranklinEdward/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FranklinEdward&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="FranklinEdward's github stats" /></a>
+|------------- |
+
+
 
 ### ❤ Views and Followers
 <p align="left" style="margin-left: 50px">
