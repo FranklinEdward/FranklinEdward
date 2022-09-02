@@ -9,12 +9,12 @@
 
 
 ### 🤷‍♂️**My Amazing Skills**
-<a href="#"><img style="width: 40px" src="https://i.imgur.com/m28hJRc.png" title="source: imgur.com" /></a>
-<a href="#"><img style="width: 40px" src="https://i.imgur.com/G63KlZn.png" title="source: imgur.com" /></a>
-<a href="#"><img style="width: 40px" src="https://i.imgur.com/jHZ7skg.png" title="source: imgur.com" /></a>
-<a href="#"><img style="width: 40px" src="https://i.imgur.com/LI61eJP.png" title="source: imgur.com" /></a>
-<a href="#"><img style="width: 40px" src="https://i.imgur.com/C0ULm1B.png" title="source: imgur.com" /></a>
-<a href="#"><img style="width: 40px" src="https://i.imgur.com/SQQIxri.png" title="source: imgur.com" /></a>
+<img style="width: 40px" src="https://i.imgur.com/m28hJRc.png" 
+<img style="width: 40px" src="https://i.imgur.com/G63KlZn.png" 
+<img style="width: 40px" src="https://i.imgur.com/jHZ7skg.png" 
+<img style="width: 40px" src="https://i.imgur.com/LI61eJP.png"
+<img style="width: 40px" src="https://i.imgur.com/C0ULm1B.png" 
+<img style="width: 40px" src="https://i.imgur.com/SQQIxri.png" 
 
 ### 🧑‍💻 **About Me**
 - 🧑‍💻 I’m currently working as ... a web developer
