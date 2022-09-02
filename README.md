@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://i.imgur.com/LdNgfEb.png" width="400" height="400" />
   <a href="https://imgur.com/rW4JiEQ"><img src="https://i.imgur.com/rW4JiEQ.png?1" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/rW4JiEQ"><img src="https://i.imgur.com/rW4JiEQ.png?3" title="source: imgur.com" /></a>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Franklin Edwardö </h1>
@@ -25,7 +26,7 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-### 📞 **contact me on**:
+### 📞 **connect with me**:
 <p align="left" style="margin-left: 20px">
   <a href="https://imgur.com/90c54aR"><img style="width: 40px" src="https://i.imgur.com/90c54aR.png" title="source: imgur.com" /></a>
   <a href="https://imgur.com/Dldf474"><img style="width: 40px" src="https://i.imgur.com/Dldf474.png" title="source: imgur.com" /></a>
