@@ -8,7 +8,7 @@
 
 
 
-### 🤷‍♂️**My Amazing Skills**
+## 🤷‍♂️**My Amazing Skills**
 
 <a><img style="width: 40px" src="https://i.imgur.com/m28hJRc.png" /></a>
 <a><img style="width: 40px" src="https://i.imgur.com/G63KlZn.png" /></a>
@@ -17,14 +17,14 @@
 <a><img style="width: 40px" src="https://i.imgur.com/C0ULm1B.png" /></a>
 <a><img style="width: 40px" src="https://i.imgur.com/SQQIxri.png" /></a>
 
-### 🧑‍💻 **About Me**
+## 🧑‍💻 **About Me**
 
 - 🧑‍💻 I’m currently working as ... a web developer
 - 👨‍🏫 I’m currently learning ... JavaScript & Python
 - 📨 How to reach me: ... Elmander.Franklin@gmail.com
 - ⚡ Fun fact: ... I am a programmer and i have no life!!
 
-### 📞 **connect with me**:
+## 📞 **connect with me**:
 <p align="left" style="margin-left: 20px">
   <a href="https://imgur.com/90c54aR"><img style="width: 40px" src="https://i.imgur.com/90c54aR.png" title="source: imgur.com" /></a>
   <a href="https://imgur.com/Dldf474"><img style="width: 40px" src="https://i.imgur.com/Dldf474.png" title="source: imgur.com" /></a>
