@@ -9,14 +9,16 @@
 
 
 ### 🤷‍♂️**My Amazing Skills**
-<img style="width: 40px" src="https://i.imgur.com/m28hJRc.png" />
-<img style="width: 40px" src="https://i.imgur.com/G63KlZn.png" />
-<img style="width: 40px" src="https://i.imgur.com/jHZ7skg.png" />
-<img style="width: 40px" src="https://i.imgur.com/LI61eJP.png"/>
-<img style="width: 40px" src="https://i.imgur.com/C0ULm1B.png" />
-<img style="width: 40px" src="https://i.imgur.com/SQQIxri.png" />
+
+<a><img style="width: 40px" src="https://i.imgur.com/m28hJRc.png" /></a>
+<a><img style="width: 40px" src="https://i.imgur.com/G63KlZn.png" /></a>
+<a><img style="width: 40px" src="https://i.imgur.com/jHZ7skg.png" /></a>
+<a><img style="width: 40px" src="https://i.imgur.com/LI61eJP.png" /></a>
+<a><img style="width: 40px" src="https://i.imgur.com/C0ULm1B.png" /></a>
+<a><img style="width: 40px" src="https://i.imgur.com/SQQIxri.png" /></a>
 
 ### 🧑‍💻 **About Me**
+
 - 🧑‍💻 I’m currently working as ... a web developer
 - 👨‍🏫 I’m currently learning ... JavaScript & Python
 - 📨 How to reach me: ... Elmander.Franklin@gmail.com
