@@ -9,12 +9,12 @@
 
 
 ### 🤷‍♂️**My Amazing Skills**
-<a href="https://imgur.com/m28hJRc"><img style="width: 40px" src="https://i.imgur.com/m28hJRc.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/G63KlZn"><img style="width: 40px" src="https://i.imgur.com/G63KlZn.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/jHZ7skg"><img style="width: 40px" src="https://i.imgur.com/jHZ7skg.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/LI61eJP"><img style="width: 40px" src="https://i.imgur.com/LI61eJP.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/C0ULm1B"><img style="width: 40px" src="https://i.imgur.com/C0ULm1B.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/SQQIxri"><img style="width: 40px" src="https://i.imgur.com/SQQIxri.png" title="source: imgur.com" /></a>
+<a href="#"><img style="width: 40px" src="https://i.imgur.com/m28hJRc.png" title="source: imgur.com" /></a>
+<a href="#"><img style="width: 40px" src="https://i.imgur.com/G63KlZn.png" title="source: imgur.com" /></a>
+<a href="#"><img style="width: 40px" src="https://i.imgur.com/jHZ7skg.png" title="source: imgur.com" /></a>
+<a href="#"><img style="width: 40px" src="https://i.imgur.com/LI61eJP.png" title="source: imgur.com" /></a>
+<a href="#"><img style="width: 40px" src="https://i.imgur.com/C0ULm1B.png" title="source: imgur.com" /></a>
+<a href="#"><img style="width: 40px" src="https://i.imgur.com/SQQIxri.png" title="source: imgur.com" /></a>
 
 ### 🧑‍💻 **About Me**
 - 🧑‍💻 I’m currently working as ... a web developer
