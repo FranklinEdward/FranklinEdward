@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://imgur.com/rW4JiEQ"><img src="https://i.imgur.com/rW4JiEQ.png?5" width="300" height="300" /></a>
+  <a href="https://imgur.com/rW4JiEQ"><img src="https://i.imgur.com/rW4JiEQ.png?5" width="300" height="270" /></a>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Franklin Edwardö </h1>
