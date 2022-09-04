@@ -26,11 +26,10 @@
 
 ## 📞 **connect with me**:
 <p align="left" style="margin-left: 20px">
-  <a href="https://twitter.com/home"><img style="width: 40px" src="https://i.imgur.com/90c54aR.png" title="source: imgur.com" /></a>
-  <a href="https://imgur.com/O9nHZTb"><img style="width: 40px" src="https://i.imgur.com/O9nHZTb.png" title="source: imgur.com" /></a>
-  <a href="https://www.instagram.com/frankinihi"><img style="width: 40px" src="https://i.imgur.com/AMPGtIB.png" title="source: imgur.com" /></a>
-  <a href="https://web.facebook.com/?_rdc=1&_rdr"><img style="width: 40px" src="https://i.imgur.com/Dldf474.png" title="source: imgur.com" /></a>
-<a style="margin-left: 10px" href = "https://twitter.com/ay4codes"><img style="width: 40px" src="https://i.im.ge/2022/07/28/F9P1gr.png"/></a>
+  <a style="margin-left: 10px" href="https://twitter.com/home"><img style="width: 40px" src="https://i.imgur.com/90c54aR.png" title="source: imgur.com" /></a>
+  <a style="margin-left: 10px" href="https://imgur.com/O9nHZTb"><img style="width: 40px" src="https://i.imgur.com/O9nHZTb.png" title="source: imgur.com" /></a>
+  <a style="margin-left: 10px" href="https://www.instagram.com/frankinihi"><img style="width: 40px" src="https://i.imgur.com/AMPGtIB.png" title="source: imgur.com" /></a>
+  <a style="margin-left: 10px" href="https://web.facebook.com/?_rdc=1&_rdr"><img style="width: 40px" src="https://i.imgur.com/Dldf474.png" title="source: imgur.com" /></a>
 </p>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=FranklinEdward&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="FranklinEdward's github stats" />
