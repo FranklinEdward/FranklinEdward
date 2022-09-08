@@ -10,12 +10,12 @@
 
 ## 🤷‍♂️**My Amazing Skills**
 
-<a><img style="width: 40px" src="https://i.imgur.com/m28hJRc.png" /></a>
-<a><img style="width: 40px" src="https://i.imgur.com/G63KlZn.png" /></a>
-<a><img style="width: 40px" src="https://i.imgur.com/jHZ7skg.png" /></a>
-<a><img style="width: 40px" src="https://i.imgur.com/LI61eJP.png" /></a>
-<a><img style="width: 40px" src="https://i.imgur.com/C0ULm1B.png" /></a>
-<a><img style="width: 40px" src="https://i.imgur.com/SQQIxri.png" /></a>
+<a><img style="width: 40px" src="https://i.imgur.com/C3icDXd.png" /></a>
+<a><img style="width: 40px" src="https://i.imgur.com/4ZHEdPt.png" /></a>
+<a><img style="width: 40px" src="https://i.imgur.com/NOXOz3I.png" /></a>
+<a><img style="width: 40px" src="https://i.imgur.com/PhpTggx.png" /></a>
+<a><img style="width: 40px" src="https://i.imgur.com/KY8e9V7.png" /></a>
+<a><img style="width: 40px" src="https://i.imgur.com/DH5mQ7w.png" /></a>
 
 ## 🧑‍💻 **About Me**
 
